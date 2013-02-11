@@ -1,0 +1,5 @@
+1. Comparing the input string to another string
+
+2. An array, where array[n] = array[n+1]+3
+
+3.
